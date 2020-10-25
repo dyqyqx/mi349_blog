@@ -20,6 +20,14 @@ p {
     line-height: 1.4em;
 }
 
+#blog {
+    border-top: 1px dotted #ccc
+}
+
+.Section-heading {
+    border-bottom: 1px dotted #ccc
+}
+
 article {
     border-bottom: 1px solid #000;
 }
